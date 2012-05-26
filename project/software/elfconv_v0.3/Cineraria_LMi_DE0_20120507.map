@@ -1,0 +1,12 @@
+BLOCK		START ADDRESS		END ADDRESS
+
+Page_0		0x00000000		0x0003FC18
+Cineraria_LMi_elfloader2.hex		0x00060000		0x000617EB
+
+
+
+Notes:
+
+- Data checksum for this conversion is 0x04FE35CA
+
+- All the addresses in this file are byte addresses

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 3.1.0?>
+
+<ManagedProjectBuildInfo>
+<project id="Cineraria_LMi_elfloader2.nios2.exec.508872994" name="Nios II Executable" projectType="nios2.exec">
+<configuration artifactExtension="elf" artifactName="Cineraria_LMi_elfloader2" cleanCommand="rm -rf" description="" errorParsers="org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GLDErrorParser;org.eclipse.cdt.core.GASErrorParser" id="nios2.exec.debug.1667343009" name="Debug" parent="nios2.exec.debug">
+<toolChain id="com.altera.nj.ui.exe.Debug.946700072" name="com.altera.nj.ui.exe.Debug" superClass="com.altera.nj.ui.exe.Debug">
+<tool id="com.altera.nj.ui.tool.compiler.exe.debug.1773611562" name="Nios II Compiler" superClass="com.altera.nj.ui.tool.compiler.exe.debug">
+<option id="com.altera.nj.compiler.exe.debug.option.optimization.level.968345725" superClass="com.altera.nj.compiler.exe.debug.option.optimization.level" value="nios2.optimization.level.size" valueType="enumerated"/>
+</tool>
+<tool id="com.altera.nj.ui.tool.linker.exe.debug.1206338118" name="Linker" superClass="com.altera.nj.ui.tool.linker.exe.debug"/>
+<macros expandEnvironmentMacros="true"/>
+</toolChain>
+</configuration>
+<configuration artifactExtension="elf" artifactName="Cineraria_LMi_elfloader2" cleanCommand="rm -rf" description="" errorParsers="org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GLDErrorParser;org.eclipse.cdt.core.GASErrorParser" id="nios2.exec.release.909880944" name="Release" parent="nios2.exec.release">
+<toolChain id="com.altera.nj.ui.exe.Release.745720381" name="com.altera.nj.ui.exe.Release" superClass="com.altera.nj.ui.exe.Release">
+<tool id="com.altera.nj.ui.tool.compiler.exe.release.326592889" name="Nios II Compiler" superClass="com.altera.nj.ui.tool.compiler.exe.release">
+<option id="com.altera.nj.compiler.exe.release.option.optimization.level.1774976690" superClass="com.altera.nj.compiler.exe.release.option.optimization.level" value="nios2.optimization.level.size" valueType="enumerated"/>
+</tool>
+<tool id="com.altera.nj.ui.tool.linker.exe.release.396477887" name="Linker" superClass="com.altera.nj.ui.tool.linker.exe.release"/>
+<macros expandEnvironmentMacros="true"/>
+</toolChain>
+</configuration>
+</project>
+</ManagedProjectBuildInfo>

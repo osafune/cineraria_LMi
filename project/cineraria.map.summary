@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon May 07 15:56:27 2012
+Quartus II 64-Bit Version : 11.1 Build 259 01/25/2012 SP 2 SJ Full Version
+Revision Name : cineraria
+Top-level Entity Name : cineraria
+Family : Cyclone III
+Total logic elements : 13,408
+    Total combinational functions : 10,201
+    Dedicated logic registers : 7,905
+Total registers : 7905
+Total pins : 238
+Total virtual pins : 0
+Total memory bits : 286,976
+Embedded Multiplier 9-bit elements : 31
+Total PLLs : 2
